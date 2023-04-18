@@ -2,4 +2,6 @@
 
 ## Contact
 
-If you want to contact me you can reach me at 
+Thank you for stopping by my portfolio! Feel free to reach out at lordmarycathryn@gmail.com, I'd love to hear from you. 
+
+-M.C. Lord
