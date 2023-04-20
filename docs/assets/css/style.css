@@ -601,8 +601,8 @@ main {
   font-weight: var(--fw-300);
   line-height: 1.6;
   display: -webkit-box;
-  line-clamp: 4;
-  -webkit-line-clamp: 4;
+  line-clamp: 14;
+  -webkit-line-clamp: 14;
   -webkit-box-orient: vertical;
 
 }
