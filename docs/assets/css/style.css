@@ -560,7 +560,7 @@ main {
  * #testimonials 
  */
 
-.testimonials { margin-bottom: 30px; }
+.testimonials { margin-bottom: 130px; }
 
 .testimonials-title { margin-bottom: 20px; }
 
@@ -571,7 +571,7 @@ main {
   gap: 15px;
   margin: 0 -15px;
   padding: 25px 15px;
-  padding-bottom: 35px;
+  padding-bottom: 130px;
   overflow-x: auto;
   scroll-behavior: smooth;
   overscroll-behavior-inline: contain;
@@ -604,7 +604,7 @@ main {
   line-clamp: 4;
   -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
-  overflow: hidden;
+
 }
 
 
