@@ -658,7 +658,7 @@ main {
 .testimonials-modal {
   background: var(--eerie-black-2);
   position: relative;
-  padding: 15px;
+  padding: 15px, 115px;
   margin: 15px 12px;
   border: 1px solid var(--jet);
   border-radius: 14px;
@@ -699,7 +699,7 @@ main {
   background: var(--bg-gradient-onyx);
   width: max-content;
   border-radius: 14px;
-  margin-bottom: 115px;
+  margin-bottom: 15px;
   box-shadow: var(--shadow-2);
 }
 
